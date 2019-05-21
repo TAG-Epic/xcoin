@@ -1,0 +1,2 @@
+# xcoin
+XCoin issue tracker
